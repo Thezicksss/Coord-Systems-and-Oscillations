@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 869880133}
   - component: {fileID: 869880132}
   m_Layer: 0
-  m_Name: '"Sphere"'
+  m_Name: '"Cuadritos"'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -152,7 +152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8e11836d6b3ee40468d2583ec88f4bcc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_pointPrefab: {fileID: 3060913560415645725, guid: 57bf26ae731de704d8fea6be58c59165, type: 3}
+  m_pointPrefab: {fileID: 49900151342474581, guid: 6fc3984e887de64429d4e432cb7bfa3d, type: 3}
   m_totalSamplePoints: 23
   m_separation: 0.6
   m_amplitude: 0.5
@@ -301,7 +301,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0.27612355, g: 0.6037736, b: 0.16176572, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
